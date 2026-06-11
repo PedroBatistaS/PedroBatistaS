@@ -12,7 +12,7 @@
 - 🛡️ Hands-on experience in **cybersecurity** (Black9, Atlantis Technology)
 - 🏠 I run a 24/7 **self-hosted homelab** on a Raspberry Pi 5 (Docker, Tailscale, Cloudflare Tunnel, AdGuard, Vaultwarden, Grafana, n8n, local LLMs with Ollama)
 - ☸️ I've worked with **bare-metal Kubernetes and OpenShift clusters**, designing containerized environments to replace legacy VM infrastructure
-- 🤖 Currently building a **voice assistant for my grandfather** with Raspberry Pi, Whisper, Piper TTS and the Claude API
+
 - 🌍 Based in **Gran Canaria, Spain** 🇪🇸 · Spanish (native) · English
 
 ### 🛠️ Tech stack
@@ -61,7 +61,6 @@
 | Project | Description | Tech |
 |---|---|---|
 | 🏠 [homelab](https://github.com/PedroBatistaS/homelab) | 24/7 self-hosted server on Raspberry Pi 5: automation, dashboards, DNS filtering, password manager and local AI, with secure remote access | Docker · Tailscale · Cloudflare Tunnel · Grafana |
-| 🗣️ [grandpa-voice-assistant](https://github.com/PedroBatistaS/grandpa-voice-assistant) | Accessible voice assistant for the elderly with cloned voice, emergency button and Telegram alerts | Raspberry Pi · Whisper · Piper TTS · Claude API |
 | ☸️ [k8s-database-labs](https://github.com/PedroBatistaS/k8s-database-labs) | Containerized per-student database environments replacing legacy Windows VMs | Kubernetes · Helm · OpenShift · Podman |
 | 🌌 [IG-Entrega-Sistema-Solar](https://github.com/PedroBatistaS/IG-Entrega-Sistema-Solar--P6-7-) | Interactive 3D solar system built for Computer Graphics | JavaScript · Three.js |
 | ✨ [IG-Entrega-Shader](https://github.com/PedroBatistaS/IG-Entrega-Shader--P9-10-) | Custom GLSL shaders for Computer Graphics | JavaScript · GLSL |
